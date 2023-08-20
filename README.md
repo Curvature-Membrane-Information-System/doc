@@ -43,7 +43,11 @@
 ![正十二面体](https://github.com/Curvature-Membrane-Information-System/doc/assets/47711102/0d646aa6-6d0b-4f03-883a-de6c9335b90b)
 ![正十二面体膨胀](https://upload.wikimedia.org/wikipedia/commons/1/1e/Spherical_polyhedron_cube_divide_face_by_2.svg)
 
+### 局部流形的分割
+节点式存储系统需要能将将节点分割为更多的节点，类似四叉树。
+简单的思路是将正十二面体通过一种方式分割为多个正十二面体。
+
 ### 局部流形的联通
-正十二面体的问题还存在于联通上，【待续
+正十二面体的问题还存在于联通上，即可微流形的局部坐标转移性，存在一种机制将两个联通的流形坐标转换成同一坐标系下。
 
 
